@@ -208,7 +208,7 @@ const Modal: React.FC<ModalProps> = ({
 
                                 >
 
-                                    <Button />
+                                    <Button label="My Button"/>
 
                                 </div>
                             </div>
