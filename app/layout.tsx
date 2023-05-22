@@ -5,7 +5,7 @@ import { Inter } from 'next/font/google'
 import Navbar from "./components/navbar/Navbar"
 import ClientOnly from './components/ClientOnly'
 
-import RegisterModal from "./hooks/RegisterModal"
+import RegisterModal from "./components/modals/RegisterModal"
 
 const inter = Inter({ subsets: ['latin'] })
 
